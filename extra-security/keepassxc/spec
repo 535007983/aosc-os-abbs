@@ -1,3 +1,3 @@
-VER=2.6.2
+VER=2.6.3
 SRCS="https://github.com/keepassxreboot/keepassxc/releases/download/${VER}/keepassxc-${VER}-src.tar.xz"
-CHKSUMS="sha256::101bfade0a760d6ec6b8c4f3556e7f1201f1edd29ceabc73ad5846f9a57d7e38"
+CHKSUMS="whirlpool::89fcdb1e8aa52b0ed75e6d0fe761dcfc08d854e866a8673acbebf09354a2c852a58d3aeb8442436cb9656f104f7b65e53654342ac5f90e1de03739b4d2ccd4a6"
