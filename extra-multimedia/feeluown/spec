@@ -1,3 +1,3 @@
-VER=3.5.3
-SRCTBL="https://pypi.org/packages/source/f/feeluown/feeluown-3.5.3.tar.gz"
-CHKSUM="sha256::b06d3ee831e3accef9a52fa3e9ac100b6c63fe76caa58f5f3de53356823757f7"
+VER=3.7.1
+SRCS="https://pypi.org/packages/source/f/feeluown/feeluown-3.5.3.tar.gz"
+CHKSUMS="whirlpool::134b640121233785b8ea46d7259be2ff0f6f68687696558a6a8f0cc7af7a9bc975fb84002ccdb7432ed4722dd3a43b44a3523c1b3ebad1b26904009bb1bac6aa"
