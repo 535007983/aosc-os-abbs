@@ -2,3 +2,4 @@ VER=0.16.0.0
 REL=3
 GITSRC="https://github.com/monero-project/monero"
 GITCO="v${VER}"
+CHKSUMS="SKIP"
